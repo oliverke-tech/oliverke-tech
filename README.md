@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🎓 Graduated from Northeastern University with a Master of Science degree in Computer Information Systems
+- 📫 How to reach me: ke.alaric@gmail.com
 <!--
 **ke-alaric/ke-alaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
